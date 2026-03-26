@@ -1,14 +1,14 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Mohammad%20Mainuddin&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=DevOps%20%7C%20SRE%20%7C%20Cloud%20Engineer&descAlignY=58&descColor=8b949e)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Mohammad%20Mainuddin&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20%7C%20SRE%20%7C%20Cloud%20Engineer&descAlignY=58&descColor=a0c4ff)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Reliable+%26+Scalable+Systems;Multi-Cloud+Infrastructure+Architect;DevSecOps+%7C+CI%2FCD+Automation;Kubernetes+%7C+Docker+%7C+Terraform)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Reliable+%26+Scalable+Systems;Multi-Cloud+Infrastructure+Architect;DevSecOps+%7C+CI%2FCD+Automation;Kubernetes+%7C+Docker+%7C+Terraform;AIOps+%7C+Platform+Engineering)](https://git.io/typing-svg)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mainuddin-mohammad/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammad-mainuddin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mainuddin922699@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mainuddin922699@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mohammad-mainuddin&label=Profile+Views&color=58a6ff&style=flat-square)
 
@@ -41,6 +41,18 @@ open_to: "Exciting DevOps / SRE / Cloud roles"
 
 ---
 
+## 🏅 Certifications
+
+<div align="center">
+
+| Badge | Certification | Issuer | Status |
+|:---:|---|---|:---:|
+| ![Azure](https://img.shields.io/badge/AZ--104-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) | **Microsoft Certified: Azure Administrator Associate** | Microsoft | ✅ Certified |
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 | Category | Tools & Technologies |
@@ -61,7 +73,7 @@ open_to: "Exciting DevOps / SRE / Cloud roles"
 
 <div align="center">
 
-[![devsecops-ai-pr-agent](https://github-readme-stats.vercel.app/api/pin/?username=mohammad-mainuddin&repo=devsecops-ai-pr-agent&theme=github_dark&border_color=30363d)](https://github.com/mohammad-mainuddin/devsecops-ai-pr-agent)
+[![devsecops-ai-pr-agent](https://github-readme-stats.vercel.app/api/pin/?username=mohammad-mainuddin&repo=devsecops-ai-pr-agent&theme=dark&bg_color=0d1117&border_color=30363d&icon_color=58a6ff&title_color=58a6ff&text_color=ffffff)](https://github.com/mohammad-mainuddin/devsecops-ai-pr-agent)
 
 </div>
 
@@ -71,22 +83,22 @@ open_to: "Exciting DevOps / SRE / Cloud roles"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohammad-mainuddin&show_icons=true&theme=github_dark&border_color=30363d&hide_border=false&count_private=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-mainuddin&layout=compact&theme=github_dark&border_color=30363d&hide_border=false" height="170"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohammad-mainuddin&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&icon_color=58a6ff&title_color=58a6ff&text_color=ffffff&count_private=true&hide_border=false" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-mainuddin&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=ffffff&hide_border=false" />
 
-<br/>
+<br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mohammad-mainuddin&theme=github-dark-blue&border=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mohammad-mainuddin&theme=dark&background=0d1117&border=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&sideNums=ffffff&currStreakNum=ffffff)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mohammad-mainuddin&theme=darkhub&column=6&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mohammad-mainuddin&theme=darkhub&no-frame=true&column=6&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -104,7 +116,7 @@ open_to: "Exciting DevOps / SRE / Cloud roles"
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer)
 
 **💬 Open to collaborate on DevOps, SRE, and Cloud projects. Let's build something reliable!**
 
